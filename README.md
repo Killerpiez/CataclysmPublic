@@ -6,3 +6,5 @@ as seen by games like Escape from Tarkov or Diablo. All of this has been simulat
 
 Follow the link to see a short clip of the system in action.
 https://imgur.com/a/z8hzovc
+
+The bulk of the work of this project can be found in: Cataclysm\InventorySystem
